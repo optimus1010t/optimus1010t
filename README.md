@@ -4,7 +4,7 @@
 - 🌱 I’m currently trying to get into CP and understanding np-completeness and ML.
 - 🥅 2022 Goals: Contribute more to open source projects and dive deeper into academia.
 - ⚡ Fun fact: I love to cook and I am interested in photography.
-- 😻 Check out my portfolio website: [Portfolio](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 😻 Check out my portfolio website: [Portfolio]()
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=optimus1010t&show_icons=true&theme=dark" />
