@@ -7,7 +7,7 @@
 - 😻 Check out my portfolio website: [Portfolio]()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=optimus1010t&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=optimus1010t&show_icons=true&theme=gotham" />
 </p>
 <P align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=optimus1010t&layout=compact&theme=gotham" />
