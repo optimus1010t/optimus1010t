@@ -1,4 +1,4 @@
-# Hi there, I'm Tanishq Prasad - [optimus1010t][youtube] 👋 
+# Hi there, I'm Tanishq Prasad - [optimus1010t] 👋 
 ## I'm a Sophomore at IIT Kharagpur in the CSE Dept.!!
 
 - 🌱 I’m currently trying to get into CP and understanding np-completeness and ML.
