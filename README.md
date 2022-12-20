@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 
 - 🌱 I’m currently trying to get into CP and understanding np-completeness and ML.
 - 🥅 What do I want to do: Contribute more to open source projects and dive deeper into academia.
-- ⚡ Fun fact: I love to cook and I am interested in photography.
+- ⚡ Tangent : I love to cook and I am interested in photography.
 - 😻 Check out my portfolio website: [Portfolio]()
 - 📫 E-mail : tanishqprasad1003@gmail.com
 - 🔗 LinkedIN : https://www.linkedin.com/in/tanishq-prasad-38b6a3229/
