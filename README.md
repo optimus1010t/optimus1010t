@@ -1,5 +1,10 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # Hi there, I'm Tanishq Prasad - [optimus1010t] 👋 
-** 'I'm a Sophomore at IIT Kharagpur in the CSE Dept.!!' **
+**`Sophomore at IIT Kharagpur in the CSE Dept.`**
 
 - 🌱 I’m currently trying to get into CP and understanding np-completeness and ML.
 - 🥅 What do I want to do: Contribute more to open source projects and dive deeper into academia.
