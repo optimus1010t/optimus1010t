@@ -2,7 +2,7 @@
 ## I'm a Sophomore at IIT Kharagpur in the CSE Dept.!!
 
 - 🌱 I’m currently trying to get into CP and understanding np-completeness and ML.
-- 🥅 2022 Goals: Contribute more to open source projects and dive deeper into academia.
+- 🥅 What do I want to do: Contribute more to open source projects and dive deeper into academia.
 - ⚡ Fun fact: I love to cook and I am interested in photography.
 - 😻 Check out my portfolio website: [Portfolio]()
 - 📫 E-mail : tanishqprasad1003@gmail.com
