@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Hi there, I'm Tanishq Prasad - [optimus1010t] 👋 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
