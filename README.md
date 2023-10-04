@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Third-year%20at%20IIT%20Kharagpur;Pursuing%20CSE%20course;Up%20for%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=498e78&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-- 🌱 I’m currently trying to get into CP and understanding np-completeness and ML.
+- 🌱 I’m currently trying to learn about randomised algorithms and np-completeness.
 - 🥅 What do I want to do: Contribute more to open source projects and dive deeper into academia.
 - ⚡ Tangent : I love to cook and I am interested in photography.
 - 😻 Check out my portfolio website: [Portfolio](https://optimus1010t.github.io/)
