@@ -1,4 +1,4 @@
-# Hi there, I'm Tanishq Prasad - [optimus1010t] 👋 
+# Hi there, I'm Tanishq Prasad - [optimus1010t]
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Third-year%20at%20IIT%20Kharagpur;Pursuing%20CSE%20course;Up%20for%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=498e78&vCenter=true&pause=1000&size=22" /></a>
