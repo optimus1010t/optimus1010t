@@ -11,7 +11,7 @@
 -  E-mail : tanishqprasad1003@gmail.com
 -  LinkedIN : https://www.linkedin.com/in/tanishq-prasad-38b6a3229/
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
