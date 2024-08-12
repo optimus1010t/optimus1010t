@@ -1,12 +1,12 @@
 # Hi there, I'm Tanishq Prasad - [optimus1010t]
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Third-year%20at%20IIT%20Kharagpur;Pursuing%20CSE%20course;Up%20for%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=498e78&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Fourth-year%20at%20IIT%20Kharagpur;Pursuing%20CSE%20course;Up%20for%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=498e78&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 -  I’m currently trying to learn about randomised algorithms and np-completeness.
--  What do I want to do: Contribute more to open source projects and dive deeper into academia.
--  Tangent : I love to cook and I am interested in photography.
+-  What do I want to do: Everything.
+-  Tangent : I love to cook, and I am interested in photography and sketching.
 -  Check out my portfolio website: [Portfolio](https://optimus1010t.github.io/)
 -  E-mail : tanishqprasad1003@gmail.com
 -  LinkedIN : https://www.linkedin.com/in/tanishq-prasad-38b6a3229/
